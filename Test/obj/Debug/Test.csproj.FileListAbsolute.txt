@@ -1,0 +1,8 @@
+C:\Experiments\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Experiments\Test\obj\Debug\Test.Form1.resources
+C:\Experiments\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Experiments\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\adhsur\Documents\GitHub\Experiments\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adhsur\Documents\GitHub\Experiments\Test\obj\Debug\Test.Form1.resources
+C:\Users\adhsur\Documents\GitHub\Experiments\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\adhsur\Documents\GitHub\Experiments\Test\obj\Debug\Test.csproj.GenerateResource.Cache
